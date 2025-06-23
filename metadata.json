@@ -1,0 +1,5 @@
+{
+  "name": "AI Code Generation Assistant",
+  "description": "An application that uses AI to generate code snippets in various programming languages based on user descriptions. Describe the code you need, select a language, and let the AI assistant craft it for you.",
+  "requestFramePermissions": []
+}
